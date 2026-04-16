@@ -8,7 +8,7 @@ An end-to-end Data Analytics project focused on uncovering trends and impacts of
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 <p align="center">
-  <img src="images/layoffs_dashboard.png" width="800"/>
+  <img src="image/layoffs_dashboard.png" width="800"/>
 </p>
 
 ---
